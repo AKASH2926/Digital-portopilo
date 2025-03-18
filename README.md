@@ -132,10 +132,10 @@
     <div class="content">
     <h2>Contact
     </h2>
-        No-1, S.R.Nagar South
-        <br>Gandhiji 1st Street
-        <br>Mangalam Road
-        <br>Tiruppur - 641687
+        1/106 ,north street,
+        <br>Gandhiji eravangudi
+        <br> udayarpalayam t/k
+        <br> ariyalur - 621803
     </div>
 </section>
 
